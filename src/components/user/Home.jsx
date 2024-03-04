@@ -10,7 +10,7 @@ const Home = () => {
           <div className="nes-container is-rounded">
             <div className="hero-content flex-col lg:flex-row">
               <img
-                src="./public/images/PP.png"
+                src="../images/PP.png"
                 className="max-w-sm rounded-lg shadow-2xl"
                 style={{ maxWidth: "80%", height: "auto" }}
               />
@@ -30,7 +30,7 @@ const Home = () => {
                   dan berikontribusi lebih secara konkret.
                 </p>
                 <a
-                  href="./public/images/QurrotaAyun.pdf"
+                  href="../images/QurrotaAyun.pdf"
                   download
                   className="nes-btn"
                 >

@@ -17,7 +17,7 @@ const Project = () => {
               >
                 <figure className="px-10 pt-10">
                   <img
-                    src="./public/images/monitoring.png"
+                    src="../images/monitoring.png"
                     alt="Shoes"
                     className="rounded-xl"
                   />
@@ -77,7 +77,7 @@ const Project = () => {
               >
                 <figure className="px-10 pt-10">
                   <img
-                    src="./public/images/node.png"
+                    src="../images/node.png"
                     alt="Shoes"
                     className="rounded-xl"
                   />
@@ -138,7 +138,7 @@ const Project = () => {
               >
                 <figure className="px-10 pt-10">
                   <img
-                    src="./public/images/node.png"
+                    src="../images/node.png"
                     alt="Shoes"
                     className="rounded-xl"
                   />
@@ -198,7 +198,7 @@ const Project = () => {
               >
                 <figure className="px-10 pt-10">
                   <img
-                    src="./public/images/react.png"
+                    src="../images/react.png"
                     alt="Shoes"
                     className="rounded-xl"
                   />

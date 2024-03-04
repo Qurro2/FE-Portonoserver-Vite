@@ -17,7 +17,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/html.png"
+                    src="../images/html.png"
                     alt="html"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "60%", height: "auto" }}
@@ -30,7 +30,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/css.png"
+                    src="../images/css.png"
                     alt="css"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -43,7 +43,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/tailwind.png"
+                    src="../images/tailwind.png"
                     alt="tailwind"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -56,7 +56,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/bootstrap.png"
+                    src="../images/bootstrap.png"
                     alt="bootstrap"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -69,7 +69,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/js.png"
+                    src="../images/js.png"
                     alt="javascript"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -82,7 +82,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/php.png"
+                    src="../images/php.png"
                     alt="php"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -95,7 +95,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/react.png"
+                    src="../images/react.png"
                     alt="react"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -108,7 +108,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/laravel-logo.wine.png"
+                    src="../images/Laravel.png"
                     alt="laravel"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "180%", height: "auto" }}
@@ -121,7 +121,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/node.png"
+                    src="../images/node.png"
                     alt="node"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -134,7 +134,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/expressjs.png"
+                    src="../images/expressjs.png"
                     alt="express"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -147,7 +147,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/mysqldb.png"
+                    src="../images/mysqldb.png"
                     alt="mysql"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -160,7 +160,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/mongodb.png"
+                    src="../images/mongodb.png"
                     alt="mongo"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "100%", height: "auto" }}
@@ -173,7 +173,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/jest.png"
+                    src="../images/jest.png"
                     alt="jest"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -186,7 +186,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/babeljs.png"
+                    src="../images/babeljs.png"
                     alt="babeljs"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -199,7 +199,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/docker.png"
+                    src="../images/docker.png"
                     alt="docker"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "80%", height: "auto" }}
@@ -212,7 +212,7 @@ const Keterampilan = () => {
               <div className="flex flex-col items-center md:mx-4 lg:mx-8">
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
-                    src="./public/images/firebase.png"
+                    src="../images/firebase.png"
                     alt="firebase"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "100%", height: "auto" }}
