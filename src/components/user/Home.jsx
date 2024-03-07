@@ -18,7 +18,10 @@ const Home = () => {
                 <h1 className="text-5xl font-bold">
                   <TypingEffect text={textToType} speed={350} />
                 </h1>
-                <p className="py-6">
+                <p className="font-bold py-3 mt-2">
+                  Software Engineer || Full-Stack Web
+                </p>
+                <p className="py-1">
                   Saya adalah lulusan S1 Jurusan Teknik Infromatika di
                   Universitas Nusamandiri, Telah memahami secara baik mengenai
                   pemrograman, pengembangan web dan aplikasi, pengembangan basis
