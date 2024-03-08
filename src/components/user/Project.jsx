@@ -107,7 +107,7 @@ const Project = () => {
                     <dialog id="my_modal_2" className="modal text-start">
                       <div className="modal-box bg-white">
                         <h3 className="font-bold text-lg">
-                          Monitoring Project
+                          User create contact and address
                         </h3>
                         <div className="lists p-5">
                           <ul className="nes-list is-disc">
@@ -165,9 +165,7 @@ const Project = () => {
                     </button>
                     <dialog id="my_modal_3" className="modal text-start">
                       <div className="modal-box bg-white">
-                        <h3 className="font-bold text-lg">
-                          Monitoring Project
-                        </h3>
+                        <h3 className="font-bold text-lg">Portofolio Server</h3>
                         <div className="lists p-5">
                           <ul className="nes-list is-disc">
                             <li>User Login</li>
@@ -226,7 +224,7 @@ const Project = () => {
                     <dialog id="my_modal_4" className="modal text-start">
                       <div className="modal-box bg-white">
                         <h3 className="font-bold text-lg">
-                          Monitoring Project
+                          Portofolio Frontend
                         </h3>
                         <div className="lists p-5">
                           <ul className="nes-list is-disc">
@@ -239,6 +237,60 @@ const Project = () => {
                             <li>Input File</li>
                             <li>Type Effect</li>
                             <li>Whatsapp Animation</li>
+                          </ul>
+                        </div>
+                      </div>
+                      <form method="dialog" className="modal-backdrop">
+                        <button>close</button>
+                      </form>
+                    </dialog>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="item5" className="carousel-item w-full justify-center">
+              <div
+                className="card w-96 bg-white p-5"
+                data-aos="fade-zoom-in"
+                data-aos-easing="ease-in-back"
+                data-aos-delay="300"
+                data-aos-offset="0"
+              >
+                <figure className="px-10 pt-10">
+                  <img
+                    src="../images/ssnetchil.png"
+                    alt="Shoes"
+                    className="rounded-xl"
+                  />
+                </figure>
+                <div className="card-body items-center text-center">
+                  <h1 className="card-title">Netflix</h1>
+                  <h6 className="font-bold">Clone</h6>
+                  <p>Frontend</p>
+                  <div className="card-actions">
+                    <a
+                      href="https://github.com/Qurro2/FE-Netchill-React"
+                      target="_blank"
+                      className="btn "
+                    >
+                      <FaGithub size={26} />
+                    </a>
+                    <button
+                      className="nes-btn is-warning"
+                      onClick={() =>
+                        document.getElementById("my_modal_5").showModal()
+                      }
+                    >
+                      Fitur
+                    </button>
+                    <dialog id="my_modal_5" className="modal text-start">
+                      <div className="modal-box bg-white">
+                        <h3 className="font-bold text-lg">Netflix clone</h3>
+                        <div className="lists p-5">
+                          <ul className="nes-list is-disc">
+                            <li>UserPage</li>
+                            <li>Login Form</li>
+                            <li>Akan ada update selanjutnya</li>
                           </ul>
                         </div>
                       </div>
@@ -264,6 +316,9 @@ const Project = () => {
             </a>
             <a href="#item4" className="btn btn-xs">
               4
+            </a>
+            <a href="#item5" className="btn btn-xs">
+              5
             </a>
           </div>
         </div>
