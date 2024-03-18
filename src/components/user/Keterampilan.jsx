@@ -222,6 +222,19 @@ const Keterampilan = () => {
                   Firebase
                 </p>
               </div>
+              <div className="flex flex-col items-center md:mx-4 lg:mx-8">
+                <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
+                  <img
+                    src="../images/rabbitmq.png"
+                    alt="firebase"
+                    className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
+                    style={{ maxWidth: "100%", height: "auto" }}
+                  />
+                </div>
+                <p className="font-semibold" style={{ maxWidth: "100px" }}>
+                  Firebase
+                </p>
+              </div>
             </div>
           </div>
         </div>
