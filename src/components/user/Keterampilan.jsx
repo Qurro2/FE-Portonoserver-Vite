@@ -228,7 +228,7 @@ const Keterampilan = () => {
                     src="../images/rabbitmq.png"
                     alt="firebase"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
-                    style={{ maxWidth: "100%", height: "auto" }}
+                    style={{ maxWidth: "50%", height: "auto" }}
                   />
                 </div>
                 <p className="font-semibold" style={{ maxWidth: "100px" }}>
