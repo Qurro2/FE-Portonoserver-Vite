@@ -226,13 +226,13 @@ const Keterampilan = () => {
                 <div className="rounded-xl overflow-hidden w-24 h-24 flex justify-center items-center relative">
                   <img
                     src="../images/rabbitmq.png"
-                    alt="firebase"
+                    alt="rabbitmq"
                     className="object-cover w-full h-full transition-transform duration-300 transform hover:scale-110"
                     style={{ maxWidth: "50%", height: "auto" }}
                   />
                 </div>
                 <p className="font-semibold" style={{ maxWidth: "100px" }}>
-                  Firebase
+                  RabbitMQ
                 </p>
               </div>
             </div>
